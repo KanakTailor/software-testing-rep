@@ -1,7 +1,7 @@
 def add(a,b):
   return a - b
 
-def division(a,b):
+def divide(a,b):
   return a / b
 
 print(add(5,3))
